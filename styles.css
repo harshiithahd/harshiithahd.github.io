@@ -128,13 +128,14 @@ body{
 }
 /* ========== Profile Image Small Size ========== */
 .profile-img {
-  width: 80px;        /* small size */
-  height: 80px;
-  border-radius: 50%;  /* circle */
+  width: 70px;        /* small size */
+  height: 85px;
+  border-radius: 12px;  /* circle */
   object-fit: cover;
   border: 2px solid rgba(255,255,255,0.15);
   box-shadow: 0 3px 9px rgba(0,0,0,0.3);
 }
+
 
 
 
