@@ -126,5 +126,16 @@ body{
   transform: translateY(-3px) scale(1.05);
   box-shadow: 0 8px 20px rgba(79,140,255,0.6);
 }
+/* ========== Profile Image Small Size ========== */
+.profile-img {
+  width: 140px;        /* small size */
+  height: 140px;
+  border-radius: 50%;  /* circle */
+  object-fit: cover;
+  border: 3px solid rgba(255,255,255,0.15);
+  box-shadow: 0 6px 18px rgba(0,0,0,0.4);
+}
+
+
 
 
